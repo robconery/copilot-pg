@@ -1,10 +1,9 @@
 {
-
   "name": "pg-chat",
   "displayName": "PG Chat Participant",
   "description": "Creates queries and other fun things with your Postgres database. Use chat to create tables, views, and run queries, right in your editor. Output the results as JSON or CSV.",
   "version": "1.0.6",
-  "publisher":"robconery",
+  "publisher": "robconery",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.90.0"
@@ -14,7 +13,8 @@
     "url": "https://github.com/microsoft/copilot-pg"
   },
   "categories": [
-    "Other"
+    "AI",
+    "Chat"
   ],
   "extensionDependencies": [
     "github.copilot-chat"
